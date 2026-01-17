@@ -1,0 +1,28 @@
+body {
+	background-color: #333333
+}
+
+
+h1 {
+	text-align: center;
+    color: white;
+    text-shadow: 3px 3px 40px black;
+    position: abasolute;
+}
+
+h2 { 
+	text-align: center;
+    color: white;
+    text-shadow: 3px 3px 40px black;
+    position: absolute;
+}
+
+p { 
+	text-align: center;
+    color: white;
+    font-family: Times New Roman;
+}
+
+img {
+	border-radius: 20px;
+    transition: transform 0.5s}
